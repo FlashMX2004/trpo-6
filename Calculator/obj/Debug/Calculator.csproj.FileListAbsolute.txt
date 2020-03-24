@@ -1,0 +1,12 @@
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\obj\Debug\Calculator.CalculatorForm.resources
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\bin\Debug\CalculatorLib.dll
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\bin\Debug\CalculatorLib.pdb
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete

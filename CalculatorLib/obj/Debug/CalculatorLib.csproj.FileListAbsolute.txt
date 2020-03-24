@@ -1,0 +1,5 @@
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\CalculatorLib\bin\Debug\CalculatorLib.dll
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\CalculatorLib\bin\Debug\CalculatorLib.pdb
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\CalculatorLib\obj\Debug\CalculatorLib.dll
+D:\Вова\Уроки\Институт\Все предметы\Технология разработки программного обеспечения\6\Calculator\CalculatorLib\obj\Debug\CalculatorLib.pdb
